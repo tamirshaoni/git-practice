@@ -1,3 +1,6 @@
 dog
 
 This line is form master branch!
+
+This line is from feature branch!
+
